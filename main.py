@@ -1,5 +1,5 @@
-TOKEN = "7253041398:AAEb0yGrTvyrRc7E9_O5Uu0OvYFSkD8S3o8"
-ADMIN = 1779062204
+TOKEN = "your token here"
+ADMIN = <your tg id>
 
 #!/usr/bin/env python
 # pylint: disable=unused-argument
