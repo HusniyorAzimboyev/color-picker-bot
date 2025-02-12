@@ -41,6 +41,6 @@ python main.py
 Once running, start a chat with your bot and interact with the color picker WebApp.
 
 ## Technologies Used
-- `python-telegram-bot==13.15`
+- `python-telegram-bot`
 - WebApp for color selection
 - RGB to HEX conversion
